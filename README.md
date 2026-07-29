@@ -209,9 +209,7 @@ Customer-Churn-Prediction/
 │
 ├── notebook/
 │   └── churn_prediction.ipynb
-│
-├── models/
-│   └── churn_model.pkl
+    |_ xgb_model.pkl
 │
 ├── requirements.txt
 │
