@@ -136,6 +136,8 @@ The following classification models were trained:
 
 | Decision Tree | Rule-based classifier |
 | Random Forest | Ensemble learning model |
+| XG-BOOST | Ensemble learning model |
+
 
 ---
 
@@ -232,12 +234,7 @@ Run Streamlit application:
 
 streamlit run app/app.py
 
-🚀 Future Improvements
-Deploy the application using cloud platforms
-Build REST API using Flask/FastAPI
-Add customer retention recommendations
-Experiment with advanced models like XGBoost and Neural Networks
-Integrate real-time customer data
+
 
 👩‍💻 Author:
 
