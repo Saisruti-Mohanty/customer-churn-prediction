@@ -70,7 +70,6 @@ columns:21
 ### Tools
 
 - Jupyter Notebook
-- VS Code
 - Git & GitHub
 
 ### Application Interface
@@ -134,10 +133,9 @@ The following classification models were trained:
 | Model | Description |
 |-------|-------------|
 | Logistic Regression | Baseline classification model |
-| K-Nearest Neighbors | Distance-based classifier |
+
 | Decision Tree | Rule-based classifier |
 | Random Forest | Ensemble learning model |
-| Support Vector Machine | Classification using decision boundaries |
 
 ---
 
